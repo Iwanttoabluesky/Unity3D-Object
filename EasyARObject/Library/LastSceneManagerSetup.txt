@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/TargetOnTheFly/Scenes/TargetOnTheFly.unity
+  isLoaded: 1
+  isActive: 1
