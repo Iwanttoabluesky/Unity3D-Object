@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/TargetOnTheFly/Scenes/TargetOnTheFly.unity
+- path: Assets/TargetOnTheFly/Scenes/TargetOnTheFly 1.unity
   isLoaded: 1
   isActive: 1
